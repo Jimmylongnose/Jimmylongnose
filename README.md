@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jimmylongnose
 - 👀 I’m interested in UE Develpment/Modding
-- 🌱 I’m currently learning Verse, C++, C# and python
+- 🌱 I’m currently learning Verse, C++, C# and Python
 - 📫 Reach me on discord @mschfsneakers
 
 <!---
