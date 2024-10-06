@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jimmylongnose
-- 👀 I’m interested in botting
-- 🌱 I’m currently learning Python
-- 📫 How to reach me jimmylongnose07#6812 on discord
+- 👀 I’m interested in UE Develpment/Modding
+- 🌱 I’m currently learning Verse, C++, C# and python
+- 📫 Reach me on discord @mschfsneakers
 
 <!---
 Jimmylongnose/Jimmylongnose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
